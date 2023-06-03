@@ -1,0 +1,4 @@
+﻿  server.cpp
+C:\Users\volog\source\repos\RPC_server\RPC_server\server.cpp(41,49): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\volog\source\repos\RPC_server\RPC_server\server.cpp(64,48): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  RPC_server.vcxproj -> C:\Users\volog\source\repos\RPC_server\x64\Debug\RPC_server.exe
